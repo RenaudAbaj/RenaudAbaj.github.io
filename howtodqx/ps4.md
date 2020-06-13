@@ -10,7 +10,7 @@ do the thing
 
 download
 
-if you need a vpn <a href="/#/vpn" target="_blank">follow the vpn guide</a> and come back here
+if you need a vpn <a href="#/vpn" target="_blank">follow the vpn guide</a> and come back here
 
 activate
 
