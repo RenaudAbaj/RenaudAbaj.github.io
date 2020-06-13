@@ -6,7 +6,7 @@
 - Switch
     - [Create a Japanese Nintendo account](switch?id=create-a-japanese-nintendo-account)
     - [Switch setup](switch?id=switch-setup)
-- PS4
+- PS4
     - [Create a Japanese Playstation Account](ps4?id=create-a-japanese-playstation-account)
     - [PS4 setup](ps4?id=ps4-setup)
 - VPN
