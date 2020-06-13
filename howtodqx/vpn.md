@@ -1,4 +1,5 @@
 # VPN guide
+you can go directly to [the next step](vpn?id=share-a-vpn-connection) if you already have a vpn
 
 yeah
 

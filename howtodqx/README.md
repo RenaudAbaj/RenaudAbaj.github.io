@@ -20,7 +20,7 @@ The purpose of this guide is to make an updated version of
 [Cramberry's](https://www.woodus.com/forums/topic/28719-getting-started-on-pc),
 and make it more complete and streamlined by explaining how to set up a VPN 
 and play on other systems than PC.
-For more info you can check the [Dragon's Den's forum](https://www.woodus.com/forums/forum/100-dragon-quest-x/) and the [DQX Gaijins](https://discord.gg/bVfnWF) where you can find other people to play with and other useful resources.
+For more info you can check the [Dragon's Den's forum](https://www.woodus.com/forums/forum/100-dragon-quest-x/) and the [DQX Gaijins Discord Server](https://discord.gg/bVfnWF) where you can find other people to play with and other useful resources.
 
 If you arleady know what you are doing you can quickly 
 navigate using the menu on the left. Otherwise, you can
@@ -29,9 +29,9 @@ just follow the instructions starting from this page, everything you need to kno
 For any remarks, corrections etc contact me on discord at renaud#5914 or directly make 
 a pull request on the [Github repository](https://github.com/RenaudTGSTN/RenaudTGSTN.github.io).
 
-# Create a Japanese Square Enix account
+# Creating a Japanese Square Enix account
 
-if you already have a japanese square enix account go to the [next step](README?id=next-step)
+if you already have a Japanese square enix account you can go to the [next step](README?id=next-step)
 
 yeah just do the thing then
 
