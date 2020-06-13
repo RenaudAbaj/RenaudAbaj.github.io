@@ -1,12 +1,12 @@
 [go back to create jp se account](README?id=next-step)
 
-# Create a Japanese Playstation Account
+# Creating a Japanese Nintendo account
 
-if you already have a japanese playstation account [go to the next step](ps4?id=ps4-setup)
+if you already have a japanese nintendo account [go to the next step](switch?id=switch-setup)
 
 do the thing
 
-# PS4 setup
+# Switch setup
 
 download
 
