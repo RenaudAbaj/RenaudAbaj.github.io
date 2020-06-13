@@ -1,0 +1,17 @@
+- Introduction
+    - [Introduction](README?id=introduction)
+    - [Create a Japanese Square Enix account](README?id=create-a-japanese-square-enix-account)
+- Windows
+    - [Windows setup](windows)
+- Switch
+    - [Create a Japanese Nintendo account](switch?id=create-a-japanese-nintendo-account)
+    - [Switch setup](switch?id=switch-setup)
+- PS4
+    - [Create a Japanese Playstation Account](ps4?id=create-a-japanese-playstation-account)
+    - [PS4 setup](ps4?id=ps4-setup)
+- VPN
+    - [VPN guide](vpn?id=vpn-guide)
+    - [Share a VPN connection](vpn?id=share-a-vpn-connection)
+
+- Other
+    - [Web browser version](browser)
