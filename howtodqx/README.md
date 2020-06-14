@@ -23,7 +23,7 @@ As of today, the only countries without IP ban are:
 - The United States
 
 The purpose of this guide is to make an updated version of 
-[Cramberry's](https://www.woodus.com/forums/topic/28719-getting-started-on-pc), to make it more streamlined, to help you play on switch and to help you set up a vpn connection.
+[Ashes'](https://www.woodus.com/forums/topic/28719-getting-started-on-pc), to make it more streamlined, to help you play on switch and to help you set up a vpn connection.
 For more info you can check the [Dragon's Den's forum](https://www.woodus.com/forums/forum/100-dragon-quest-x/) and the [DQX Gaijins Discord Server](https://discord.gg/bVfnWF) where you can find other people to play with and other useful resources.
 
 If you arleady know what you are doing you can quickly 
