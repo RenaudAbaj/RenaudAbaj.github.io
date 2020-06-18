@@ -1,15 +1,6 @@
-- [Introduction](README?id=introduction)
-- [Creating a Japanese Square Enix account](README?id=creating-a-japanese-square-enix-account)
-- Windows
-    - [Activating the free trial and downloading the game](windows?id=activating-the-free-trial-and-downloading-the-game)
-    - [Playing the game](windows?id=playing-the-game)
-- Switch
-    - [Creating a Japanese Nintendo account](switch?id=creating-a-japanese-nintendo-account)
-    - [Add a new user to the Switch](switch?id=add-a-new-user-to-the-switch)
-    - [Link your Nintendo account to a Switch user](switch?id=link-your-nintendo-account-to-a-switch-user)
-    - [Downloading Dragon Quest X](switch?id=downloading-dragon-quest-x)
-    - [Activate your trial for the Switch version](switch?id=activate-your-trial-for-the-switch-version)
-    - [Launching the game](switch?id=launching-the-game)
-- VPN
-    - [Setting up a VPN connection](vpn?id=setting-up-a-vpn-connection)
-    - [Share a VPN connection](vpn?id=share-a-vpn-connection)
+- **Guide**
+- [Start here](README)
+- [Windows guide](windows)
+- [Switch guide](switch)
+- **VPN**
+- [Setting up a VPN connection](vpn)

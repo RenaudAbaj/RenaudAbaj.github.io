@@ -1,4 +1,6 @@
-# Creating a Japanese Nintendo account
+# Switch guide
+
+## Creating a Japanese Nintendo account
 
 >If you live in a country where the IP block is on, don't connect to a VPN right now as it's not needed for the first steps. You will be asked to connect to a VPN later.
 
@@ -42,7 +44,7 @@ Once the verification code entered, click on "Verify" and you'll be redirected t
 
 Click on "OK" to end the registration process and close the page. You'll recieve a confirmation e-mail that you can safely delete.
 
-# Add a new user to the Switch
+## Add a new user to the Switch
 
 >If you already have a user on your switch with no linked Nintendo account you can go to [the next step](switch?id=link-your-nintendo-account-to-a-switch-user). However, keep in mind that your Japanese Nintendo account will be forever linked to this user.
 
@@ -78,7 +80,7 @@ You can now link your Japanese Nintendo account to this user, or click on "Later
 
 Click on "Link a Nintendo Account" and continue to the next step.
 
-# Link your Nintendo account to a Switch user
+## Link your Nintendo account to a Switch user
 
 >If you selected "Later" by mistake in the previous step you can go to this step by selecting your newly created user's icon on the top left of your home screen, then select "Link Nintendo Account" under "Profile".
 
@@ -100,7 +102,7 @@ Select "OK".
 
 and that's it. you can now access the Japanese Nintendo eShop!
 
-# Downloading Dragon Quest X
+## Downloading Dragon Quest X
 
 ![](sw1.jpg)
 
@@ -174,7 +176,7 @@ Click on the "無料ダウンロード" on the bottom right of the screen to con
 
 Now just click on "おわる" (end) to go back to your home screen and wait for your game to download.
 
-# Activate your trial for the Switch version
+## Activate your trial for the Switch version
 
 >If you live in a country where the IP ban is still on you'll first need to connect your switch to a VPN. <a href="#/vpn" target="_blank">follow the vpn guide</a> to do so, then come back here. You need to stay connected to the VPN as long as the game is on.
 
@@ -216,7 +218,7 @@ You can leave the main menu of the game by selecting "ログアウトする"(Log
 
 Then it will ask you if you really want to log out, sselect yes (はい).
 
-# Launching the game
+## Launching the game
 
 >Remember, as said in the previous section, if you are one of those who need a VPN to play the game make sure you're connected to a VPN before launching the game.
 

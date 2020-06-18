@@ -1,4 +1,6 @@
-# Introduction
+# Start here
+
+## Introduction
 
 Welcome! This is a complete and step by step guide to set up and play 
 Dragon Quest X for people who don't understand Japanese 
@@ -31,7 +33,7 @@ just follow the instructions starting from this page, everything you need to kno
 For any remarks, corrections, suggestions etc contact me on discord at renaud#5914 or directly make 
 a pull request on the [Github repository](https://github.com/RenaudTGSTN/RenaudTGSTN.github.io).
 
-# Creating a Japanese Square Enix account
+## Creating a Japanese Square Enix account
 
 Making a Japanese Square Enix account is the first thing to do regardless of the version you want to play.
 >If you already have a Japanese Square Enix account you can directly go to the [next step](README?id=next-step)
