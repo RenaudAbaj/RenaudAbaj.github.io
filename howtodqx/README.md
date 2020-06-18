@@ -41,13 +41,11 @@ Making a Japanese Square Enix account is the first thing to do regardless of the
 First, go to the [Square Enix account login page](https://secure.square-enix.com/account/app/svc/Login?cont=account).
 
 ![](acc1.png)
-
 Click on the big blue "Register for a Square Enix Account" button. You'll be redirected to a registration form. 
 
 On this form, under "Country" select "Japan" and the page will reload.
 
 ![](acc2.png)
-
 Enter the information just like the above picture. If you already have a non-Japanese Square Enix account, make sure to use a different address and ID.
 
 Solve the CAPTCHA and then click on the big orange "次へ" (next) button.
@@ -63,7 +61,6 @@ The e-mail should look like something like this:
 Once the verification code entered, click on the big orange "登録する"(register) button and you'll be redirected to the following page:
 
 ![](acc5.png)
-
 Now, just click on the big orange "次へ" button and that's it. 
 
 Congratulations you made your Japanese Square Enix account!
