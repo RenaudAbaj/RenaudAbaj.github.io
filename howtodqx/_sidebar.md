@@ -1,8 +1,8 @@
-- Introduction
-    - [Introduction](README?id=introduction)
-    - [Creating a Japanese Square Enix account](README?id=creating-a-japanese-square-enix-account)
+- [Introduction](README?id=introduction)
+- [Creating a Japanese Square Enix account](README?id=creating-a-japanese-square-enix-account)
 - Windows
-    - [Windows setup](windows)
+    - [Activating the free trial and downloading the game](windows?id=activating-the-free-trial-and-downloading-the-game)
+    - [Playing the game](windows?id=playing-the-game)
 - Switch
     - [Creating a Japanese Nintendo account](switch?id=creating-a-japanese-nintendo-account)
     - [Add a new user to the Switch](switch?id=add-a-new-user-to-the-switch)
@@ -11,5 +11,5 @@
     - [Activate your trial for the Switch version](switch?id=activate-your-trial-for-the-switch-version)
     - [Launching the game](switch?id=launching-the-game)
 - VPN
-    - [VPN guide](vpn?id=vpn-guide)
+    - [Setting up a VPN connection](vpn?id=setting-up-a-vpn-connection)
     - [Share a VPN connection](vpn?id=share-a-vpn-connection)

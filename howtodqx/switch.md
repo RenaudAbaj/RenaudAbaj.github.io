@@ -1,5 +1,7 @@
 # Creating a Japanese Nintendo account
 
+>If you live in a country where the IP block is on, don't connect to a VPN right now as it's not needed for the first steps. You will be asked to connect to a VPN later.
+
 >If you already have a Japanese Nintendo account you can safely go to [the next step](switch?id=add-a-new-user-to-the-switch).
 
 >If you already have a user linked with a Japanese account on your Switch, you can directly  [download Dragon Quest X](switch?id=downloading-dragon-quest-x).
