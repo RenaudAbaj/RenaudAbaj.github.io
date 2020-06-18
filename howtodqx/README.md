@@ -1,5 +1,3 @@
-# HEY JUST TO LET YOU KNOW THE SITE IS STILL UNDER CONSTRUCTION
-
 # Introduction
 
 Welcome! This is a complete and step by step guide to set up and play 
