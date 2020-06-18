@@ -22,7 +22,7 @@ Select the choice that applies to you.
 
 Once you're on this form, enter the requiered information, then set "Country/region of residence" to "Japan". 
 
-Just as the Square Enix account, you must use a different e-mail address than the one you use for your regular Nintendo account.
+Just as the Square Enix account, you must use a different e-mail address than the one you use for your regular Nintendo account (if you already have one).
 
 Once the form have been completed, click on the checkbox next to "I agree to the Nintendo Account User Agreement and I acknowledge that I have read the Nintendo Privacy Policy." and click on "Continue".
 
@@ -216,7 +216,7 @@ You can leave the main menu of the game by selecting "ログアウトする"(Log
 
 ![](play7.jpg)
 
-Then it will ask you if you really want to log out, sselect yes (はい).
+Then it will ask you if you really want to log out, select yes (はい).
 
 ## Launching the game
 
