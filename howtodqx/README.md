@@ -70,6 +70,8 @@ After registering, you'll recieve a confirmation e-mail that you can safely dele
 
 ## Next step
 
+>/!\IMPORTANT/!\ Do not try one of the streamming versions (3DS, mobile, browser) before activating your trial for Windows, because it will prevent you from activating the trial for the Windows version. That being said, I don't recommand the streaming version at all, as it's not free, and it doesn't play well.
+
 >[Click here if you want to play on Windows](windows)
 
 >[Click here if you want to play on Switch](switch?id=creating-a-japanese-nintendo-account)

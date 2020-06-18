@@ -11,11 +11,14 @@ There are a lot of different VPN providers out there, most of theme are paid ser
 
 But if you are reading this section that's probably because you don't already use a VPN and don't know which one to chose.
 
-As a said before, most of the VPNs services are not free, however, I will present you here the service I use which is called "VPN Gate". 
+As I said before, most of the VPNs services are not free, however, I will present you here the service I use which is called "VPN Gate". 
 
-I heard that ProtonVPN is a good free VPN service. As I never used it myself, I can't write a guide about it. However [you can check it out here](https://protonvpn.com/).
+I heard that ProtonVPN is also a good free VPN service. As I never used it myself, I can't write a guide about it. However [you can check it out here](https://protonvpn.com/).
 
 >This guide only covers the use of a VPN to play Dragon Quest X, however it is possible to use it do to other things. Be careful though, as you may want to be familiar with your VPNs term of use. You should also know that the person or organization owning the VPN server can know which websites you visit for example. Everything should be fine as long as you only use it to play Dragon Quest X.
+
+>You should know that if you connect to a different server than the one you connected to previously you will recieve an e-mail from Square Enix asking you to change your password for security reasons. Because it seems someone in another location tried to connect to your account. 
+Your Square Enix account will be temporarly blocked until you change your password. If you think this is annoying, try to connect to the same location each time you play.
 
 ## VPN Gate
 
@@ -27,24 +30,48 @@ There are multiple ways to connect to VPN Gate servers, you can do it manually o
 
 >Keep in mind that because anybody can turn their computer into a VPN server with VPN Gate, you can't have the guarantee that they won't spy on which websites you visit. As I said before, it should be fine as long as you only use it to play Dragon Quest X.
 
-I recommand you to list the servers by score, and to take the server with the highest score that is located in a contry without IP ban, usually that's one of Tsukuba University's servers.
-
->If you connect to a different server than the one you connected to previously you will recieve an e-mail from Square Enix asking you to change your password for security reasons because it seems someone in another location tried to connect to your account. 
-Your Square Enix account will be temporarly blocked until you change your password. That's why I recommand to stay on Tsukuba University's servers as there are a lot of them, they are almost always on, and changing your password each time you want to connect is tedious.
+I recommand you to list the servers by score, and to take the server with the highest score that is located in a contry without IP ban, usually that's one of Tsukuba University's servers. However, Tsukuba's servers should only be used for academic use.
 
 # Share a VPN connection
 >You don't need to follow the next steps if you play on Windows. You can safely go back to the tutorial you were following.
 
 >There is another way to play on console using a VPN, which is to directly set up a VPN connection through your router. This method isn't covered by this guide though.
 
->To share your connection you either need to connect your device with an ethernet cable (and you'll need an adaptator if your device doesn't have an Ethernet port, such as the Switch), or a computer that have Wi-Fi to connect your device to. This guide only covers the Wi-Fi connection as I never tried the cable connection. It should work similarly.
+>To share your connection you either need to connect your device with the requiered cable (and you'll need an adaptator if your device doesn't have the right port, such as connecting an Ethernet cable to your Nintendo Switch), or a computer that have Wi-Fi to connect your device to. This guide only covers the Wi-Fi connection as I never tried the cable connection. Both methods should work similarly.
 
 ## Windows 10
-Coming soon
+
+First, you need to connect your computer to a VPN server.
+
+Then, you need to open your computer's settings. This can be done by opening the Start menu then clicking on "Settings".
+
+![](vpn1.png)
+
+Click on "Network & Internet"
+
+![](vpn2.png)
+
+Go to "Mobile hotspot"
+
+![](vpn3.png)
+
+Here, before turning mobile hotspot on, I recommand you to click on "Change adapter options" first, then turn mobile hotspot on. 
+
+Once you turned the hotspot on, a new connection called something like "Local Area Connection* \[number\]" will appear in "Change adapter options".
+
+![](vpn4.png)
+
+Right click on the new connection, then click on "Properties". 
+
+On the new window go to the "Sharing" tab.
+
+![](vpn5.png)
+
+Here, check "Allow other network users to connect through this computer's Internet connection", and then under "Home networking connection" select the connection corresponding to the way you'll connect your device. If you've been following the guide until now, it should be "Wi-Fi".
 
 Once this is done, you can connect your device to your computer the same way you'd connect your device to a regular router.
 
 ## OS X
-I didn't test it myself but other people say that [this guide](https://www.expressvpn.com/support/vpn-setup/share-vpn-connection-mac/#setup) works. You don't have to use ExpressVPN and any other VPN shoul work the same.
+I didn't test it myself but other people say that [this guide](https://www.expressvpn.com/support/vpn-setup/share-vpn-connection-mac/#setup) works. You don't have to use ExpressVPN. Any other VPN should work the same.
 
 Once this is done, you can connect your device to your computer the same way you'd connect your device to a regular router.
