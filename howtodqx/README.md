@@ -36,7 +36,7 @@ a pull request on the [Github repository](https://github.com/RenaudTGSTN/RenaudT
 # Creating a Japanese Square Enix account
 
 Making a Japanese Square Enix account is the first thing to do regardless of the version you want to play.
-If you already have a Japanese Square Enix account you can directly go to the [next step](README?id=next-step)
+>If you already have a Japanese Square Enix account you can directly go to the [next step](README?id=next-step)
 
 First, go to the [Square Enix account login page](https://secure.square-enix.com/account/app/svc/Login?cont=account).
 
@@ -72,6 +72,6 @@ After registering, you'll recieve a confirmation e-mail that you can safely dele
 
 ## Next step
 
-[Click here if you want to play on Windows](windows)
+>[Click here if you want to play on Windows](windows)
 
-[Click here if you want to play on Switch](switch)
+>[Click here if you want to play on Switch](switch?id=creating-a-japanese-nintendo-account)

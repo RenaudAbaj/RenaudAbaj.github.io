@@ -5,7 +5,11 @@
     - [Windows setup](windows)
 - Switch
     - [Creating a Japanese Nintendo account](switch?id=creating-a-japanese-nintendo-account)
-    - [Switch setup](switch?id=switch-setup)
+    - [Add a new user to the Switch](switch?id=add-a-new-user-to-the-switch)
+    - [Link your Nintendo account to a Switch user](switch?id=link-your-nintendo-account-to-a-switch-user)
+    - [Downloading Dragon Quest X](switch?id=downloading-dragon-quest-x)
+    - [Activate your trial for the Switch version](switch?id=activate-your-trial-for-the-switch-version)
+    - [Launching the game](switch?id=launching-the-game)
 - VPN
     - [VPN guide](vpn?id=vpn-guide)
     - [Share a VPN connection](vpn?id=share-a-vpn-connection)
