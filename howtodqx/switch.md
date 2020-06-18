@@ -2,6 +2,8 @@
 
 >If you already have a Japanese Nintendo account you can safely go to [the next step](switch?id=add-a-new-user-to-the-switch).
 
+>If you already have a user linked with a Japanese account on your Switch, you can directly  [download Dragon Quest X](switch?id=downloading-dragon-quest-x).
+
 First, [click here](https://accounts.nintendo.com/authorize_guide?type=mixed&redirect_uri=https%3A%2F%2Faccounts.nintendo.com%2Fconnect%2F1.0.0%2Fauthorize%3Fclient_id%3De56201e414c97a10%26display%3Dtouch%26interacted%3D1%26prompt%3Dconsent%26redirect_uri%3Dhttps%253A%252F%252Fwww.nintendo.com%26response_mode%3Dweb_message%26response_type%3Dcode%2Bid_token%2Btoken%26scope%3DeshopAlps%2BmissionStatus%2BmissionStatus%253Aprogress%2Bopenid%2BpointWallet%2Buser%2Buser.birthday%2Buser.links%255B%255D.id%2Buser.mii%2Buser.wishlist%2BuserNotificationMessage%253AanyClients%2BuserNotificationMessage%253AanyClients%253Awrite%26state%3De8f6c7c48be6b09b54128bb6366b104b%26web_message_target%3Dop-frame%26web_message_uri%3Dhttps%253A%252F%252Faccounts.nintendo.com)
 
 ![](nin1.png)
@@ -15,6 +17,8 @@ Select the choice that applies to you.
 ![](nin3.png)
 
 Once you're on this form, enter the requiered information, then set "Country/region of residence" to "Japan". 
+
+Just as the Square Enix account, you must use a different e-mail address than the one you use for your regular Nintendo account.
 
 Once the form have been completed, click on the checkbox next to "I agree to the Nintendo Account User Agreement and I acknowledge that I have read the Nintendo Privacy Policy." and click on "Continue".
 
@@ -38,55 +42,57 @@ Click on "OK" to end the registration process and close the page. You'll recieve
 
 # Add a new user to the Switch
 
+>If you already have a user on your switch with no linked Nintendo account you can go to [the next step](switch?id=link-your-nintendo-account-to-a-switch-user). However, keep in mind that your Japanese Nintendo account will be forever linked to this user.
+
 First you need to add a new user to your Nintendo Switch from which you'll link your Japanese Nintendo account to.
 
 Go to your home screen.
 
-screenshot
+![](sw1.jpg)
 
 Select "Nintendo eShop".
 
-screenshot
+![](sw2.jpg)
 
 Then select the "+" on the right.
 
-screenshot
+![](sw3.jpg)
 
 Select "Create New User"
 
-screenshot
+![](sw4.jpg)
 
 Select the icon you want.
 
-screenshot
+![](sw5.jpg)
 
-Enter the nickname you want for this console, it can be different than your account nickname.
+Enter the nickname you want for this console. It can be different than your account nickname.
 
-screenshot
+![](sw6.jpg)
 
 Select "OK". Now this new user is added to your switch.
 
-screenshot
+You can now link your Japanese Nintendo account to this user, or click on "Later" to do it later. 
 
-You can now link your Japanese Nintendo account to this user, or click on "Later" to do it later. Click on "Link a Nintendo Account" and continue to the next step.
+Click on "Link a Nintendo Account" and continue to the next step.
 
 # Link your Nintendo account to a Switch user
 
 >If you selected "Later" by mistake in the previous step you can go to this step by selecting your newly created user's icon on the top left of your home screen, then select "Link Nintendo Account" under "Profile".
 
-screenshot
+![](link1.jpg)
 
 Select "Sign in using an e-mail address or sign-in ID" to connect with your previously created Japanese Nintendo Account.
 
-screenshot
+![](link2.jpg)
 
-Enter your login info then click no "Sign in".
+Enter your login info then click on "Sign in".
 
-screenshot
+![](link3.jpg)
 
 Select "Link".
 
-screenshot
+![](link4.jpg)
 
 Select "OK".
 
@@ -94,27 +100,27 @@ and that's it. you can now access the Japanese Nintendo eShop!
 
 # Downloading Dragon Quest X
 
-screenshot
+![](sw1.jpg)
 
 On your home screen, select "Nintendo eShop".
 
-screenshot
+![](eshop1.jpg)
 
-Select your newly created user.
+Select the user that is linked with your Japanese Nintendo account. That would be the newly created user if you followed the previous steps.
 
-screenshot
+![](eshop2.jpg)
 
 If you get this message just click "OK".
 
-screenshot
+![](eshop3.jpg)
 
 Here, it's telling you you'll have to enter your Japanese Nintendo account's password. 
 
->If you don't want to enter your password each time you go to the eShop just check the box next to "次からスキップする"(skip the next times).
+>If you don't want to enter your password each time you go to the eShop just check the box next to "次からスキップする"(skip this next time).
 
 Select "入力する" (input) to enter your password.
 
-screenshot
+![](eshop4.jpg)
 
 Here, enter your password then select "OK". You'll be redirected to the Japanese Nintendo eShop.
 
