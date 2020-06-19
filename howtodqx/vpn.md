@@ -55,21 +55,25 @@ Go to "Mobile hotspot"
 
 ![](vpn3.png)
 
-Here, before turning mobile hotspot on, I recommand you to click on "Change adapter options" first, then turn mobile hotspot on. 
-
-Once you turned the hotspot on, a new connection called something like "Local Area Connection* \[number\]" will appear in "Change adapter options".
+Turn the mobile hotspot on, then click on "Change adapter options". 
 
 ![](vpn4.png)
 
-Right click on the new connection, then click on "Properties". 
+The number and name of connections may be different on your computer. Here on my screen you can see three connections:
+
+- Wi-Fi, my regular Wi-Fi connection
+- VPN - VPN Client, my VPN connection
+- Local Area Connection* 10, the connection that corresponds to the hotspot.
+
+You need to find your VPN connection on that list, right click on it' then click on "Properties". 
 
 On the new window go to the "Sharing" tab.
 
 ![](vpn5.png)
 
-Here, check "Allow other network users to connect through this computer's Internet connection", and then under "Home networking connection" select the connection corresponding to the way you'll connect your device. If you've been following the guide until now, it should be "Wi-Fi".
+Here, check "Allow other network users to connect through this computer's Internet connection", and then under "Home networking connection" select the hotspot connection (in my case it's "Local Area Connection* 10" but it may have a different name on your computer).
 
-Once this is done, you can connect your device to your computer the same way you'd connect your device to a regular router.
+Once this is done, you can connect your device to your computer the same way you'd connect your device to a regular router using the Network name and Network password found under the "Mobile hotspot" settings.
 
 ## OS X
 I didn't test it myself but other people say that [this guide](https://www.expressvpn.com/support/vpn-setup/share-vpn-connection-mac/#setup) works. You don't have to use ExpressVPN. Any other VPN should work the same.
