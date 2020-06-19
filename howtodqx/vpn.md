@@ -63,9 +63,9 @@ The number and name of connections may be different on your computer. Here on my
 
 - Wi-Fi, my regular Wi-Fi connection
 - VPN - VPN Client, my VPN connection
-- Local Area Connection* 10, the connection that corresponds to the hotspot.
+- Local Area Connection* 10, my hotspot connection.
 
-You need to find your VPN connection on that list, right click on it' then click on "Properties". 
+You need to find your VPN connection on that list (for me it would be "VPN - VPN Client"), right click on it, then click on "Properties". 
 
 On the new window go to the "Sharing" tab.
 
