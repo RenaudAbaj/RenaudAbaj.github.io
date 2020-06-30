@@ -148,6 +148,6 @@ First, you'll need to add a player to the game. So click on the button on the bo
 
 ![](win9.png)
 
-Here, under "ID", enter you Square Enix ID. And under "パスワード", enter your password, then click on "プレイヤー登録" (player registration).
+Here, under "ID", enter you Square Enix ID. And under "パスワード", enter your password, then click on the green button at the bottom that says "プレイヤー登録" (player registration).
 
 coming soon
