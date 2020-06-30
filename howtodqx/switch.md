@@ -170,7 +170,7 @@ You'll be redirected to the download confirmation screen.
 
 ![](eshop13.jpg)
 
-Click on the "無料ダウンロード" on the bottom right of the screen to confirm download.
+Click on "無料ダウンロード" on the bottom right of the screen to confirm download.
 
 ![](eshop14.jpg)
 

@@ -7,7 +7,7 @@ Because of that, the connection speed won't be as good as if you'd connect to th
 
 Unfortunately, if you live in a country where the IP ban is still on, this is the only way to play Dragon Quest X. Unless you play one of the streaming versions (3DS, browser or mobile). But those are very bad (lots of input lags) and are not free, as you need to pay a subscription for the streaming service.
 
-There are a lot of different VPN providers out there, most of theme are paid services. You can even set up your own VPN server if you know how to do that. 
+There are a lot of different VPN providers out there, most of them are paid services. You can even set up your own VPN server if you know how to do that. 
 
 But if you are reading this section that's probably because you don't already use a VPN and don't know which one to chose.
 

@@ -24,7 +24,8 @@ As of today, the only countries without IP ban are:
 
 The purpose of this guide is to make an updated version of 
 [Ashes'](https://www.woodus.com/forums/topic/28719-getting-started-on-pc), to make it more streamlined, to help you play on switch and to help you set up a vpn connection.
-For more info you can check the [Dragon's Den's forum](https://www.woodus.com/forums/forum/100-dragon-quest-x/) and the [DQX Gaijins Discord Server](https://discord.gg/bVfnWF) where you can find other people to play with and other useful resources.
+
+For more info you can check the [Dragon's Den's forum](https://www.woodus.com/forums/forum/100-dragon-quest-x/), [Dragon Quest X Guides and Getting Started](https://ryanquest.com/2020/04/26/dragon-quest-x-guides-and-getting-started/) on Ryan Molina's blog, and the [DQX Gaijins Discord Server](https://discord.gg/U35shqX) where you can find other people to play with and other useful resources.
 
 If you arleady know what you are doing you can quickly 
 navigate using the menu on the left. Otherwise, you can
@@ -72,7 +73,7 @@ After registering, you'll recieve a confirmation e-mail that you can safely dele
 
 ## Next step
 
->/!\IMPORTANT/!\ Do not try one of the streamming versions (3DS, mobile, browser) before activating your trial for Windows, because it will prevent you from activating the trial for the Windows version. That being said, I don't recommand the streaming version at all, as it's not free, and it doesn't play well.
+>/!\IMPORTANT/!\ Do not try one of the streaming versions (3DS, mobile, browser) before activating your trial for Windows, because it will prevent you from activating the trial for the Windows version. That being said, I don't recommand the streaming version at all, as it's not free, and it doesn't play well.
 
 >[Click here if you want to play on Windows](windows)
 
