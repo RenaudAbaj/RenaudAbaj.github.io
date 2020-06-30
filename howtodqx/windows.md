@@ -150,4 +150,14 @@ First, you'll need to add a player to the game. So click on the button on the bo
 
 Here, under "ID", enter you Square Enix ID. And under "パスワード", enter your password, then click on the green button at the bottom that says "プレイヤー登録" (player registration).
 
-coming soon
+![](win10.png)
+
+Here, it just tells you that you can play using either a controller or a keyboard. Just press the Enter key to start the game.
+
+![](win11.png)
+
+The next time you'll want to play you won't have to register a player again. You'll see the list on players  on the left pannel (for example, "プレイヤー1"/"player 1" on the screenshot above). And next to it the name of your main character written under brackets ("パトリック" on the screenshot above).
+
+Once the desired player is selected (If this is the only player registered to your game it will be selected by default) your ID will be automatically filled in.
+
+You'll just have to enter your password under "パスワード" then click on the big red button that says "開始オンライヌモードを"(start online mode) to play the game.

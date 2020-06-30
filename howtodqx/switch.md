@@ -3,6 +3,7 @@
 ## Creating a Japanese Nintendo account
 
 >If you live in a country where the IP block is on, don't connect to a VPN right now as it's not needed for the first steps. You will be asked to connect to a VPN later.
+You should note, however, that if you want to use a VPN on your Switch, you'll either need a computer with an ethernet cable and an ethernet adapter for your Switch; or a router that is vpn compatible; or a computer with Wi-Fi. Only the Wi-Fi method is covered on this guide though.
 
 >If you already have a Japanese Nintendo account you can safely go to [the next step](switch?id=add-a-new-user-to-the-switch).
 
