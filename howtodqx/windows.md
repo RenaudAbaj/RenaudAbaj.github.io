@@ -3,6 +3,8 @@
 ## Activating the free trial
 >If you live in a country where the IP block is on, don't connect to a VPN right now as it's not needed for the first steps. You will be asked to connect to a VPN later.
 
+>Note: You can do this step after downloading the game if you want to.
+
 First, [click here](https://hiroba.dqx.jp/sc/public/playguide/wintrial_1_normal) and scroll a little bit.
 
 ![](win1.png)
