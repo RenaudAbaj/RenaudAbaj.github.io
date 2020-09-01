@@ -39,6 +39,8 @@ a pull request on the [Github repository](https://github.com/RenaudTGSTN/RenaudT
 Making a Japanese Square Enix account is the first thing to do regardless of the version you want to play.
 >If you already have a Japanese Square Enix account you can directly go to the [next step](README?id=next-step)
 
+>Note: You can do this step later and download the game directly if you want to.
+
 First, go to the [Square Enix account login page](https://secure.square-enix.com/account/app/svc/Login?cont=account).
 
 ![](acc1.png)
