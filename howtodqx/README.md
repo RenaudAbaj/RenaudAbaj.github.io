@@ -32,7 +32,7 @@ navigate using the menu on the left. Otherwise, you can
 just follow the instructions starting from this page, everything you need to know will be explained.
 
 For any remarks, corrections, suggestions etc contact me on discord at renaud#5914 or directly make 
-a pull request on the [Github repository](https://github.com/RenaudTGSTN/RenaudTGSTN.github.io).
+a pull request on the [Github repository](https://github.com/RenaudAbaj/RenaudAbaj.github.io).
 
 ## Creating a Japanese Square Enix account
 
